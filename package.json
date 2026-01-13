@@ -2,6 +2,14 @@
   "name": "webp-light-converter",
   "version": "1.0.0",
   "description": "A lightweight library for converting images to WebP format with lossless compression",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonatan966/webp-light-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jonatan966/webp-light-converter/issues"
+  },
+  "homepage": "https://github.com/Jonatan966/webp-light-converter#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

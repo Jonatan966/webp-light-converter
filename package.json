@@ -1,0 +1,49 @@
+{
+  "name": "webp-light-converter",
+  "version": "1.0.0",
+  "description": "A lightweight library for converting images to WebP format with lossless compression",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webp",
+    "image",
+    "converter",
+    "conversion",
+    "lossless",
+    "compression",
+    "optimization",
+    "sharp",
+    "batch",
+    "jpg",
+    "jpeg",
+    "png",
+    "bmp",
+    "tiff",
+    "gif",
+    "lightweight",
+    "image-processing",
+    "performance",
+    "nodejs"
+  ],
+  "author": "Jonatan966",
+  "maintainers": [
+    {
+      "name": "Jonatan",
+      "email": "jonatanfrederico@gmail.com",
+      "url": "https://ojonatan.dev"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Jonatan",
+      "email": "jonatanfrederico@gmail.com",
+      "url": "https://ojonatan.dev"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}
